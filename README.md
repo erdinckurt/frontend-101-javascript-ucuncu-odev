@@ -3,3 +3,5 @@
 Bu ödevde JavaScript kullanarak ülkeye göre filtreli restoran menüsü yaptım.
 
 [Görmek için tıklayın](https://erdinckurt.github.io/frontend-101-javascript-ucuncu-odev/)
+
+![asiankitchen](https://github.com/Kodluyoruz/taskforce/raw/main/javascript/javascript-temel/odev3/figures/asiankitchen.gif)
